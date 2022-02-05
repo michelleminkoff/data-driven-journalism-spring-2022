@@ -1,3 +1,13 @@
+In-Class and Home Assignment
+
+
+complete a second graph using the workplace data using a different graph type (line, area, stacked bar, etc).  
+
+Use the sample data on food safety to create two graphs: one bar chart and one other chart type. Accompany this with a 200-300 word brief that explains your findings in text to be packaged with your graphs.
+
+
+
+
 Agenda
 
 9-9:30 Intro/go through example data stories  
