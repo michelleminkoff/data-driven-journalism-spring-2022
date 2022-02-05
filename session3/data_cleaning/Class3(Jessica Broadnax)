@@ -1,0 +1,16 @@
+click on classification 
+click select all 
+numbers are back in order 
+check acsending or for dam name 
+add coolumn to right of river or stream and label formatted_river
+copy and paste data in new column 
+go to find and replace for new comlumn - UNKNOWN
+check match entire cell contents 
+get rid of all unknowns 
+make column next to inspections date - label formatted inspection date- filer by text filters, contains and comma 
+open inspection dates in new book and do text to columns and separate by comma
+=IF(E2<>"",E2,"") 
+input formulas from file and double cick cross - then add extra formulas 
+copy r and s and then paste specials 
+select values and none - press okay (copy and paste the text without relying on other columns )
+FIND #VALUE! and replace with nothing
