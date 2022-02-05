@@ -1,3 +1,17 @@
+HOMEWORK
+
+1. final project memo due next Sat
+
+2. complete working with excel SC and cleaning up at least three columns, complete with a data diary
+
+3. complete graph assignments for workplace and food datasets
+
+4. come prepared with two links of data stories to discuss at the beginning of class
+
+
+
+
+
 In-Class and Home Assignment
 
 
