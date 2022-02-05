@@ -14,3 +14,11 @@ O2   =IF(AND(B2<>"",C2="", D2="", E2="", F2="",G2="", H2=""),B2,"")
 
 P2   =IF(AND(A2<>"",B2= "", C2="", D2="", E2="", F2="",G2="", H2=""),A2,"")
 
+Q2.   =CONCAT(I2:P2)
+
+R2  =TEXT(DATEVALUE(Q2), "yyyy-mm-dd")
+
+S2  =TEXT(Q2, "yyyy-mm-dd")
+
+
+
