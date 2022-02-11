@@ -1,0 +1,14 @@
+insert new column next to conditionassessment 
+copy and paste data into new column 
+replace POOR with poor 
+replace SATISFACTORY with satisfactory
+replace FAIR with fair 
+replace Unsatisfactory  with usatisfactory 
+replace NOT RATED
+insert owner name column into separate document
+rename owner_name_clean 
+replace ; with , 
+replace & with AND
+sort A to Z
+insert new column next to NID_HEIGHT
+separate by decimal 
