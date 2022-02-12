@@ -33,6 +33,7 @@
   - download button
     - [http://www.oecd.org/gender/data/employmentandunemploymentratebysexandagegroupquarterlydata.htm](http://www.oecd.org/gender/data/employmentandunemploymentratebysexandagegroupquarterlydata.htm)
   - Google formula
+  - https://www.fdic.gov/bank/individual/failed/banklist.html
     - =IMPORTHTML(&quot;https://www.fdic.gov/bank/individual/failed/banklist.html&quot;,&quot;table&quot;,0)
   - Web Inspector
     - [nytimes.com](http://nytimes.com/)
