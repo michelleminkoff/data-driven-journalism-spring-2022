@@ -1,3 +1,27 @@
+HOMEWORK
+
+1. final project memo due next Sat
+
+2. complete working with excel SC and cleaning up at least three columns, complete with a data diary
+
+3. complete graph assignments for workplace and food datasets
+
+4. come prepared with two links of data stories to discuss at the beginning of class
+
+
+
+
+
+In-Class and Home Assignment
+
+
+complete a second graph using the workplace data using a different graph type (line, area, stacked bar, etc).  
+
+Use the sample data on food safety to create two graphs: one bar chart and one other chart type. Accompany this with a 200-300 word brief that explains your findings in text to be packaged with your graphs.
+
+
+
+
 Agenda
 
 9-9:30 Intro/go through example data stories  
