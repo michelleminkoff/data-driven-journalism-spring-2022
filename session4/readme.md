@@ -1,3 +1,12 @@
+HOMEWORK - NO MTG NEXT SAT. 
+- rough draft of final project. 
+- second critique due. 
+- write four short news stories (250-500 words) about the rise and fall of words, two about Google Trends, two about Google Books ngrams, of those, one should be news-related, and the other can be news-related or not. Each one should cover a comparison of at least two words over time.  
+- opt: make appt with me to discuss your story. 
+
+
+
+Agenda
 - 9 Capstone prof coming to speak
 - 9:30-10 go over data stories
 - 10:15-11:30 review cleaning and look at analysis – use cleaned ga file
