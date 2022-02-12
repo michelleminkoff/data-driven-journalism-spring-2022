@@ -56,5 +56,6 @@
     - Site to build word cloud - [https://worditout.com/word-cloud/create](https://worditout.com/word-cloud/create).
     - Example text - [https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/19/remarks-by-president-biden-in-press-conference-6/](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/19/remarks-by-president-biden-in-press-conference-6/).
 - 4-5 Google trends - [https://trends.google.com/trends/?geo=US.](https://trends.google.com/trends/?geo=US)
+- also ngrams, like above but for google books: https://books.google.com/ngrams
   - show how it works
   - independent – students create story based off of Google Trends.
