@@ -17,3 +17,5 @@ QGIS - https://www.qgis.org/en/site/
 Census shapefiles - https://www.census.gov/cgi-bin/geo/shapefiles/index.php
 
 Mapshaper - https://mapshaper.org/
+
+Vlookup formula - =VLOOKUP(A2,Sheet2!$A$2:$B$52,2, FALSE)
