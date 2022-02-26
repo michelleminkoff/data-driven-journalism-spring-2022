@@ -1,8 +1,12 @@
 # data-driven-journalism-spring-2022
 
+Session 5
+
 Data viz types - https://datavizcatalogue.com/index.html
 
 Colorbrewer - map colors - https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+
+Gay rights - sunburst https://www.theguardian.com/world/interactive/2012/may/08/gay-rights-united-states
 
 Geocoding tool - https://www.geocod.io/
 
