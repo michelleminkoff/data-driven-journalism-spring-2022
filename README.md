@@ -13,3 +13,5 @@ Geocoding tool - https://www.geocod.io/
 Making your own google map - https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/#what-s-next-8
 
 QGIS - https://www.qgis.org/en/site/  
+
+Census shapefiles - https://www.census.gov/cgi-bin/geo/shapefiles/index.php
