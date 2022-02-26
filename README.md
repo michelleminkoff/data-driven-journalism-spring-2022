@@ -18,4 +18,10 @@ Census shapefiles - https://www.census.gov/cgi-bin/geo/shapefiles/index.php
 
 Mapshaper - https://mapshaper.org/
 
+https://visualping.io/
+
+https://archive.org/web/
+
+https://projects.propublica.org/politwoops/
+
 Vlookup formula - =VLOOKUP(A2,Sheet2!$A$2:$B$52,2, FALSE)
