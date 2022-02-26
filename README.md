@@ -15,3 +15,5 @@ Making your own google map - https://www.google.com/earth/outreach/learn/visuali
 QGIS - https://www.qgis.org/en/site/  
 
 Census shapefiles - https://www.census.gov/cgi-bin/geo/shapefiles/index.php
+
+Mapshaper - https://mapshaper.org/
