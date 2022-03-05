@@ -6,15 +6,13 @@
 
 11:30-12:30 lunch
 
-12:30-1:00 APIs
+1:45-2:00 APIs
 
 https://api.open.fec.gov/developers/.  
 https://developer.ap.org/ap-elections-api/.  
 https://nid.usace.army.mil/api/developer/static/index.html
 
-1:00-1:15 break
-
-1:15-2:30 NICAR labs in small groups
+2-3 NICAR labs in small groups
 
 Lab options
 
@@ -26,13 +24,9 @@ spreadsheets https://docs.google.com/document/d/1fhmBI5AhMY0pNV1f9TT7sp0rk4XYlMy
 
 web scraping https://docs.google.com/document/d/1-7U3ulnXrQnwOI-67TEJM2yNMZ_nJ3-IMZo184bBAOc/edit
 
-2:30-2:45 present on labs
+3-3:15 present on labs
 
-2:45-3 break
-
-3-3:30 evaluations
-
-3:30-3:45 read Phil Meyer award stories
+3:15-3:45 evaluations, read Phil Meyer award stories
 
 Announcement: https://www.ire.org/ire-announces-winners-of-2021-philip-meyer-journalism-award/
 
