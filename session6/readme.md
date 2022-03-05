@@ -12,9 +12,9 @@ https://api.open.fec.gov/developers/.
 https://developer.ap.org/ap-elections-api/.  
 https://nid.usace.army.mil/api/developer/static/index.html
 
-1:00-1:30- break
+1:00-1:15 break
 
-1:30-2:30 NICAR labs in small groups
+1:15-2:30 NICAR labs in small groups
 
 Lab options
 
